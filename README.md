@@ -9,7 +9,7 @@ This repository contains a cloned version of a responive travel and tour website
 - **Interactive Elements:** Hover effects, buttons, and other interactive elements to engage users.
 - **Image Sliders and Galleries:** Beautiful image sliders and galleries to showcase travel destinations and packages.
 - **Cross-browser Compatibility:** Tested and compatible with major web browsers including Chrome, Firefox, Safari, and Edge.
-- **Resonsive-Website:** This website is responsive for Phones, Desktop and other devices.
+- **Respnsive-Layout:** This website is responsive for Phones, Desktop and other devices.
 
 ## Getting Started
 
