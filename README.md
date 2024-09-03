@@ -26,7 +26,7 @@ This repository contains a cloned version of a responive travel and tour website
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/JawadRasool042/travel-and-tour-template.git
+   git clone https://github.com/JawadRasool042/Travel-and-Tour-Website-Template.git
 2. Navigate to the project directory:
    ```bash
    cd travel-and-tour-template
