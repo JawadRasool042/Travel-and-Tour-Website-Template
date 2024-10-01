@@ -33,12 +33,15 @@ This repository contains a cloned version of a responive travel and tour website
    open index.html
    
 **Customization**
+
 CSS Styling: Modify the style.css file located in the css folder to customize the appearance of the website.
 Content Update: Update the HTML files with your content, images, and details to personalize the website.
 Add New Sections: Add new sections or components by following the existing structure in the HTML and CSS files.
 
 **Contributing**
+
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Contributions are always welcome!
 
 **Acknowledgments**
+
 Special thanks to Colorib for providing the original template design.
