@@ -21,7 +21,7 @@ This repository contains a cloned version of a responive travel and tour website
 - HTML5
 - CSS3
 - JavaScript
-- 
+
 ## Installation
 1. Clone this repository:
    ```bash
