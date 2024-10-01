@@ -14,6 +14,7 @@ This repository contains a cloned version of a responive travel and tour website
 ## Getting Started
 
 **Prerequisites**
+- A modern web browser like Google Chrome, Firefox, or Edge.
 - A code editor like [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Technologies Used
